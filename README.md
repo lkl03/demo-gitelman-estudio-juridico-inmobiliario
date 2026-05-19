@@ -1,2 +1,7 @@
-# demo-gitelman-estudio-juridico-inmobiliario
-Demo web para Gitelman Estudio Juridico Inmobiliario — diseñada por eterlab.
+# Gitelman Estudio Juridico Inmobiliario
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
